@@ -1,0 +1,16 @@
+h1{
+    font-size:26px;color:#666666;text-align: center; margin:10px auto;}
+.tb{
+    width:1000px;
+    margin:0 auto;
+    overflow: hidden;
+table-layout:fixed;
+    }
+.td_title  a{text-decoration:underline;}
+.td_title  a:hover{color:dodgerblue; text-decoration:underline;}
+.td_url{width: 300px; overflow:hidden;}
+.td_summary{width: 400px;overflow: hidden;}
+.td_title{width: 300px; overflow: hidden;text-align: center;}
+.td_tr,.td_th{height:30px;line-height: 30px;text-align: left;}
+.td_th{font-weight: bold;color:blueviolet;text-align: center;}
+table td,table th{border:1px solid #666666; padding: 2px 4px;}
